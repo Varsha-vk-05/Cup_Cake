@@ -48,9 +48,9 @@ The app provides a simple, user-friendly interface for selecting cupcake options
 
 ## 🚀 Getting Started
 
-1. Clone the repository  
-2.Open the project in Android Studio
-3.Run the app on an emulator or physical device
+1. Clone the repository
+2. Open the project in Android Studio
+3. Run the app on an emulator or physical device
 
 ---
 
